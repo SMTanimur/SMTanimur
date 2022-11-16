@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **nest js,passport**
 
-- 👨‍💻 All of my projects are available at [https://smtainimurrahman.vercel.app/](https://smtainimurrahman.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://smtanimur.vercel.app/](https://smtanimur.vercel.app/)
 
 - 💬 Ask me about **Mern stack**
 
