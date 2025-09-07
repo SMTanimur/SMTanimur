@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SMTanimur&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SMTanimur.SMTanimur" />
+</p>
+
 ## Hi, I'm Tanim 👋
 Full‑stack developer from Bangladesh. I build scalable backends and polished frontends with TypeScript, NestJS, Next.js, and modern tooling.
 
